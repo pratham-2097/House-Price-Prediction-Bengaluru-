@@ -1,5 +1,6 @@
 # House-Price-Prediction-Bengaluru-
 Personal Project
+
 •	BENGALURU HOUSE PRICE PREDICTION PROJECT:
   o	Used Python to perform data analysis for data cleaning, feature engineering, dimensionality reduction, outlier detection, and removal.
   o	Built a machine-learning Linear Regression model.
