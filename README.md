@@ -12,3 +12,6 @@ Personal Project
   o	Exported the model and used Flask to make API calls.
   
   o	Created a website by using HTML and CSS for front-end and connected the APIs to the back end using JavaScript.
+
+  
+![1_3y4lZPMgnS6zkXuzD0vUhw](https://github.com/pratham-2097/House-Price-Prediction-Bengaluru-/assets/92509106/207349f9-174f-4a23-bba0-fbfff7e7f976)
